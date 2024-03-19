@@ -2,7 +2,11 @@
 
 This is a collection of **Hourly** data for a number of cryptocurrency coins.    
 
-This dataset has **1** csv file for each coin.   
+This dataset has **1** csv file for each coin.
+
+This dataset is made up of data taken from **Binance**. 
+
+The data is comprised of **USDT** paired against specific cryptocurrencies.    
    
 
 # Column Information         
@@ -15,7 +19,9 @@ This dataset has **1** csv file for each coin.
 * Close
 * Volume    
 * Volume USDT    
-* tradecount    
+* Tradecount    
 
 
-The dataset is composed of the following cryptocurrencies:   
+The dataset is composed of the following pairs:
+
+* IINCHUSDT
