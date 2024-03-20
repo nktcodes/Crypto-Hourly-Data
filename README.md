@@ -21,6 +21,7 @@ The data is comprised of **USDT** paired against specific cryptocurrencies.
 * Volume USDT    
 * Tradecount    
 
+# Dataset Pairs    
 
 The dataset is composed of the following pairs:
 
