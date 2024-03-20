@@ -24,4 +24,5 @@ The data is comprised of **USDT** paired against specific cryptocurrencies.
 
 The dataset is composed of the following pairs:
 
-* IINCHUSDT
+* 1INCHUSDT
+* AAVEUSDT
