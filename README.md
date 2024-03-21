@@ -27,3 +27,4 @@ The dataset is composed of the following pairs:
 
 * 1INCHUSDT
 * AAVEUSDT
+* ADAUSDT
