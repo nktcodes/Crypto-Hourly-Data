@@ -29,3 +29,4 @@ The dataset is composed of the following pairs:
 * AAVEUSDT
 * ADAUSDT
 * ATOMUSDT
+* ALGOUSDT
