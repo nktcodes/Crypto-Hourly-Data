@@ -32,3 +32,4 @@ The dataset is composed of the following pairs:
 * ALGOUSDT
 * AVAXUSDT
 * BALUSDT
+* BCHUSDT
