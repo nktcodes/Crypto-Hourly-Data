@@ -34,3 +34,4 @@ The dataset is composed of the following pairs:
 * BALUSDT
 * BCHUSDT
 * BNBUSDT
+* BTCUSDT
