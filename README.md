@@ -38,3 +38,4 @@ The dataset is composed of the following pairs:
 * COMPUSDT
 * CRVUSDT
 * DENTUSDT
+* DOGEUSDT
