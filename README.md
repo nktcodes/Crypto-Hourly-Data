@@ -39,3 +39,4 @@ The dataset is composed of the following pairs:
 * CRVUSDT
 * DENTUSDT
 * DOGEUSDT
+* DOTUSDT
