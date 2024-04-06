@@ -43,3 +43,4 @@ The dataset is composed of the following pairs:
 * DYDXUSDT
 * ETCUSDT
 * ETHUSDT
+* FILUSDT
