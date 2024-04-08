@@ -45,3 +45,4 @@ The dataset is composed of the following pairs:
 * ETHUSDT
 * FILUSDT
 * HBARUSDT
+* ICPUSDT
