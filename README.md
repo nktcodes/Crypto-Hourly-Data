@@ -46,3 +46,4 @@ The dataset is composed of the following pairs:
 * FILUSDT
 * HBARUSDT
 * ICPUSDT
+* LINKUSDT
