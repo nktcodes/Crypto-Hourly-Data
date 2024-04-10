@@ -47,3 +47,4 @@ The dataset is composed of the following pairs:
 * HBARUSDT
 * ICPUSDT
 * LINKUSDT
+* LTCUSDT
