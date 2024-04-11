@@ -48,3 +48,4 @@ The dataset is composed of the following pairs:
 * ICPUSDT
 * LINKUSDT
 * LTCUSDT
+* MATICUSDT
