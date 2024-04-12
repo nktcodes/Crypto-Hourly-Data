@@ -49,3 +49,4 @@ The dataset is composed of the following pairs:
 * LINKUSDT
 * LTCUSDT
 * MATICUSDT
+* MKRUSDT
