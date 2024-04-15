@@ -52,3 +52,4 @@ The dataset is composed of the following pairs:
 * MKRUSDT
 * RVNUSDT
 * SHIBUSDT
+* SOLUSDT
