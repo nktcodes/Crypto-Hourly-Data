@@ -54,3 +54,4 @@ The dataset is composed of the following pairs:
 * SHIBUSDT
 * SOLUSDT
 * SUSHIUSDT
+* TRXUSDT
