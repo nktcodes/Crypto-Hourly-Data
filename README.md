@@ -56,3 +56,4 @@ The dataset is composed of the following pairs:
 * SUSHIUSDT
 * TRXUSDT
 * UNIUSDT
+* VETUSDT
