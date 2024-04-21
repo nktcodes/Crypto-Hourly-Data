@@ -58,3 +58,4 @@ The dataset is composed of the following pairs:
 * UNIUSDT
 * VETUSDT
 * XLMUSDT
+* XMRUSDT
